@@ -4,6 +4,6 @@ I’m interested in low-level programming and software that interacts directly w
 
 📫 Contact:
 
-* LinkedIn: linkedin.com/in/kacperpodgorski02
+* LinkedIn: [Kacper Podgórski](https://www.linkedin.com/in/kacperpodgorski02)
 * Email: kacperpodgorski002@gmail.com
 
